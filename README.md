@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vandita Gopal
 
-**🌟 Data & Cloud Enthusiast | ⚡ Adaptable & Versatile Professional | 🧩 Problem Solver & Continuous Learner**
+🌟 Data & Cloud Enthusiast | ⚡ Adaptable & Versatile Professional | 🧩 Problem Solver & Continuous Learner
 
 ---
 
@@ -12,8 +12,8 @@ Think of me as a **"Swiss Army Knife" professional**—versatile, resourceful, a
 ---
 
 ## 🛠 Skills
-Python  | SQL  | Airflow  | Docker  | Power BI  | Pandas  | BigQuery  | PostgreSQL  | ETL Pipelines  | Selenium  | Data Analysis  | Automation Testing   
-AWS  | GCP  | S3  | Redshift  | Glue  | Lambda  | EMR  | Athena  | Kinesis  | RDS 
+Python | SQL | Airflow | Docker | Power BI | Pandas | BigQuery | PostgreSQL | ETL Pipelines | Selenium | Data Analysis | Automation Testing | Apache Spark| Linux | Jira | LangChain |
+AWS | GCP| S3 | Redshift | Glue | Lambda | EMR | Athena | Kinesis | RDS | React.js
 
 ---
 
@@ -41,5 +41,7 @@ Cisco|Data Analytics Essentials
 ## 📬 Connect with Me
 
 🐙GitHub :https://github.com/vanditagopal
+
 🔗LinkedIn:https://www.linkedin.com/in/vandita-gopal-b85817245/ 
+
 ✉️Email:vandita1802@gmail.com
