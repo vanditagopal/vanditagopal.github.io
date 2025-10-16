@@ -41,5 +41,5 @@ AWS ☁️ | GCP 🌐 | S3 🗂️ | Redshift 🟥 | Glue 🔗 | Lambda ⚡ | EM
 ## 📬 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&logoColor=white)](https://github.com/vanditagopal)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanditagopal)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:vanditagopal@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vandita-gopal-b85817245/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:vandita1802@gmai.com)
