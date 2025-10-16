@@ -18,9 +18,9 @@ AWS  | GCP  | S3  | Redshift  | Glue  | Lambda  | EMR  | Athena  | Kinesis  | RD
 ---
 
 ## 🏆 Certifications
-![AWS](https://img.shields.io/badge/style=flat-square&logo=amazon-aws&logoColor=black)|AWS-Data Engineer Associate  
-![GCP](https://img.shields.io/badge/style=flat-square&logo=google-cloud&logoColor=black)|Associate Cloud Engineer  
-![Cisco](https://img.shields.io/badge/style=flat-square&logo=cisco&logoColor=black)|Data Analytics Essentials 
+AWS|AWS-Data Engineer Associate  
+GCP|Associate Cloud Engineer  
+Cisco|Data Analytics Essentials 
 
 ---
 
@@ -29,7 +29,7 @@ AWS  | GCP  | S3  | Redshift  | Glue  | Lambda  | EMR  | Athena  | Kinesis  | RD
 | Project | Description | GitHub Link |
 |---------|-------------|------------|
 |⚙️ Airflow ETL | Robust ETL pipeline using Airflow, Docker, Postgres. | [GitHub](https://github.com/vanditagopal/airflow-etl-pipeline) |
-| AI Research Agent | AI-powered assistant using Groq Llama & LangChain. | [GitHub](https://github.com/vanditagopal/AI-Research-Agent) |
+|🤖 AI Research Agent | AI-powered assistant using Groq Llama & LangChain. | [GitHub](https://github.com/vanditagopal/AI-Research-Agent) |
 |📊 Power BI - Atliq | Data analysis & dashboards for Atliq Hardware. | [GitHub](https://github.com/vanditagopal/Power-Bi_-Atliq-) |
 |📈 Power BI - Hotel Chain | Power BI dashboards for hotel chain insights. | [GitHub](https://github.com/vanditagopal/Power-BI_Hotel-chain) |
 |🎬 Netflix Clone | Responsive Netflix-style web app (HTML, CSS, JS). | [GitHub](https://github.com/vanditagopal/Netflixclone) |
@@ -40,6 +40,6 @@ AWS  | GCP  | S3  | Redshift  | Glue  | Lambda  | EMR  | Athena  | Kinesis  | RD
 
 ## 📬 Connect with Me
 
-🐙GitHub(https://github.com/vanditagopal)  
-🔗LinkedIn(https://www.linkedin.com/in/vandita-gopal-b85817245/)  
-✉️Email(mailto:vandita1802@gmail.com)
+🐙GitHub :https://github.com/vanditagopal
+🔗LinkedIn:https://www.linkedin.com/in/vandita-gopal-b85817245/ 
+✉️Email:vandita1802@gmail.com
