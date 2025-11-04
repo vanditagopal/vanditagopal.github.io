@@ -28,7 +28,7 @@ Cisco|Data Analytics Essentials
 
 | Project | Description | GitHub Link |
 |---------|-------------|------------|
-|Football Premier League Standings|A Python-based data pipeline that extracts live Premier League standings from API, transforms the data using pandas, and loads it into a   MySQL database |[Github](https://github.com/vanditagopal/Football-Premier-League-Standings-2020-2025) |
+|⚽ Football Premier League Standings|A Python-based data pipeline that extracts live Premier League standings from API, transforms the data using pandas, and loads it into a MySQL database |[Github](https://github.com/vanditagopal/Football-Premier-League-Standings-2020-2025) |
 |⚙️ Airflow ETL | Robust ETL pipeline using Airflow, Docker, Postgres. | [GitHub](https://github.com/vanditagopal/airflow-etl-pipeline) |
 |🤖 AI Research Agent | AI-powered assistant using Groq Llama & LangChain. | [GitHub](https://github.com/vanditagopal/AI-Research-Agent) |
 |📊 Power BI - Atliq | Data analysis & dashboards for Atliq Hardware. | [GitHub](https://github.com/vanditagopal/Power-Bi_-Atliq-) |
