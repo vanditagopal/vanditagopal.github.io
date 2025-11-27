@@ -12,7 +12,7 @@ Think of me as a **"Swiss Army Knife" professional**—versatile, resourceful, a
 ---
 
 ## 🛠 Skills
-Python | SQL | Airflow | Docker | Power BI | Pandas | BigQuery | PostgreSQL | ETL Pipelines | Selenium | Data Analysis | Automation Testing | Apache Spark| Linux | Jira | LangChain |
+Data Warehousing | Data Modelling| SQL Server | Python | SQL | Airflow | Docker | Power BI | Pandas | BigQuery | PostgreSQL | ETL Pipelines | Selenium | Data Analysis | Automation Testing | Apache Spark| Linux | Jira | LangChain | Unix| Shell Scripting 
 AWS | GCP| S3 | Redshift | Glue | Lambda | EMR | Athena | Kinesis | RDS | React.js
 
 ---
@@ -28,6 +28,7 @@ Cisco|Data Analytics Essentials
 
 | Project | Description | GitHub Link |
 |---------|-------------|------------|
+|📦 SQL Data Warehouse |End-to-end SQL Data Warehouse built using a Bronze–Silver–Gold architecture, featuring raw-to-gold ETL pipelines, data cleaning, star schema modeling, and analytics-ready fact/dimension tables. |[Github](https://github.com/vanditagopal/sql-data-warehouse-project)| 
 |⚽ Football Premier League Standings|A Python-based data pipeline that extracts live Premier League standings from API, transforms the data using pandas, and loads it into a MySQL database |[Github](https://github.com/vanditagopal/Football-Premier-League-Standings-2020-2025) |
 |⚙️ Airflow ETL | Robust ETL pipeline using Airflow, Docker, Postgres. | [GitHub](https://github.com/vanditagopal/airflow-etl-pipeline) |
 |🤖 AI Research Agent | AI-powered assistant using Groq Llama & LangChain. | [GitHub](https://github.com/vanditagopal/AI-Research-Agent) |
