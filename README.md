@@ -1,46 +1,44 @@
 # 👋 Hi, I'm **Vandita Gopal**
 
-### 🚀 Data Engineer | Cloud & Analytics Enthusiast | Problem Solver
+### 🚀 Full-Stack SDET | Automation | Data Engineering | Cloud & Analytics
 
-I’m a passionate professional who enjoys building **scalable data pipelines**, transforming raw data into **meaningful insights**, and working across **data, cloud, and software systems**.  
+With experience in automation, data engineering, cloud platforms, and analytics, I focus on making applications and data more reliable.
 
-With hands-on experience in **data engineering, analytics, and automation**, I thrive in dynamic environments and adapt quickly to new technologies.  
-I like to think of myself as a **Swiss Army Knife professional** — versatile, resourceful, and always eager to learn. ✨
+I have worked with e-commerce and retail systems, including CDPs and ticketing platforms, connecting application workflows with the data behind them.
+
+Think of me as a **"Swiss Army Knife"** professional—versatile, resourceful, and ready to tackle any challenge.
 
 ---
 
 ## 💡 About Me
-- 🔍 Interested in **Data Engineering, Cloud Platforms, and Analytics**
-- 🧩 Strong problem-solving mindset with cross-domain experience  
-- ⚡ Comfortable working with both **data pipelines** and **application development**
-- 🌱 Continuous learner exploring AI tools, automation, and modern data stacks  
+- 🔍 SDET-1 at Fynd; previously Test Automation Engineer at Quantiphi, with 2+ years of experience
+- 🧩 Python-based end-to-end automation across UI, API, integration, and database testing
+- ⚡ Domain experience with e-commerce, retail, CDPs, and ticketing platforms
+- 🌱 Background in ETL, cloud data platforms, data modeling, BI, and continuous learning in AI and modern data stacks
 
 ---
 
 ## 🛠 Technical Skills
 
-### 💻 Programming & Scripting
-- Python, SQL, Shell Scripting, Unix/Linux
+### 🧪 Testing & Quality
+- Playwright, Selenium, Postman/Newman, Python
+- UI Automation, API Automation, Integration Testing, Database Automation, Automation Testing
 
-### 🗄 Data & Analytics
-- Pandas, Power BI, Data Analysis  
-- Data Warehousing & Data Modeling  
-- ETL Pipelines, Apache Spark  
+### ⚙️ Data Engineering
+- Airflow, ETL Pipelines, Data Warehousing & Data Modeling
+- Event Ingestion, Identity Resolution, Data Validation
 
-### ☁️ Cloud & Big Data
-- AWS: S3, Redshift, Glue, Lambda, EMR, Athena, Kinesis, RDS  
-- GCP: BigQuery  
-- Docker, Airflow  
+### 🗄️ Databases & Distributed Systems
+- SQL, PostgreSQL, MySQL, Apache Spark
 
-### 🧪 Testing & Automation
-- Selenium, Automation Testing  
+### ☁️ Cloud & DevOps
+- AWS: S3, Redshift, Glue, Lambda, EMR, Athena, Kinesis, RDS
+- GCP: BigQuery
+- Docker, Kubernetes, Azure DevOps, CI/CD, Shell Scripting, Unix/Linux
 
-### 🌐 Web & Tools
-- React.js  
-- Jira, GitHub  
-
-### 🤖 AI & Modern Tech
-- LangChain  
+### 📊 Analytics & Development
+- Pandas, Power BI, Data Analysis
+- React.js, Jira, GitHub, LangChain
 
 ---
 
