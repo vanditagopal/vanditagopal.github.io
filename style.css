@@ -257,6 +257,7 @@ strong { color: var(--ink); }
 }
 .experience-company { margin: 0 0 1px; color: var(--muted); font-size: .82rem; font-weight: 600; }
 .experience-card h3 { margin: 0; font-size: 1.04rem; font-weight: 750; line-height: 1.4; }
+.experience-period { margin: 3px 0 0; color: var(--muted); font-size: .78rem; }
 .current-label { margin-left: 6px; color: var(--accent); font-size: .7rem; font-weight: 700; }
 .experience-years {
     display: inline-block;
